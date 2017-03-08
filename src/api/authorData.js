@@ -8,7 +8,7 @@ module.exports = {
       },
       {
           id: 'jom',
-          firstName: 'jo',
+          firstName: 'Johanna',
           lastName: 'Mak'
       },
       {
